@@ -1,0 +1,12 @@
+{
+  "name": "mesfin-furniture",
+  "version": "1.0.0",
+  "description": "Mesfin Furniture — Premium Ethiopian Furniture Brand Website",
+  "scripts": {
+    "dev": "npx serve . -l 3000",
+    "preview": "npx serve . -l 3000"
+  },
+  "keywords": ["furniture", "ethiopian", "website"],
+  "author": "Mesfin Furniture",
+  "license": "UNLICENSED"
+}
